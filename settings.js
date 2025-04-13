@@ -3,15 +3,15 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernomer = "233550155281"
-global.ownername = "smallfish"
+global.ownernomer = "233595652412"
+global.ownername = "bigsly"
 global.ytname = "YT: @small-fish"
 global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '233550155281'  //creator number
-global.ownername = 'smallfish' //owner name
+global.ownernumber = '233595652412'  //creator number
+global.ownername = 'bigsly' //owner name
 global.botname = 'ELITE-PRO-V1' //name of the bot
 
 
